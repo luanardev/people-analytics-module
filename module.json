@@ -1,0 +1,11 @@
+{
+    "name": "PeopleAnalytics",
+    "alias": "peopleanalytics",
+    "description": "",
+    "keywords": [],
+    "priority": 3,
+    "providers": [
+        "Lumis\\PeopleAnalytics\\Providers\\PeopleAnalyticsServiceProvider"
+    ],
+    "files": []
+}

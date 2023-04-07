@@ -1,0 +1,27 @@
+{
+    "name": "luanardev/people-analytics-module",
+    "type": "laravel-module",
+    "description": "People Analytics Module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Simpokolwe",
+            "email": "bsimpokolwe@luanar.ac.mw"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lumis\\PeopleAnalytics\\Providers\\PeopleAnalyticsServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Lumis\\PeopleAnalytics\\": ""
+        }
+    }
+}

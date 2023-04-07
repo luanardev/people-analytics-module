@@ -1,0 +1,15 @@
+{
+    "name": "People Analytics",
+    "group": "admin",
+    "url": "people_analytics",
+    "icon": "fa fa-chart-pie",
+    "color": "#17a2b8",
+    "background": "rgba(22, 160, 133, 0.1)",
+    "permissions": [
+        "create-analytics",
+        "read-analytics",
+        "update-analytics",
+        "delete-analytics",
+        "analytics-settings"
+    ]
+}
